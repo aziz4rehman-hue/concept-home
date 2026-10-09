@@ -79,7 +79,7 @@ export const workshop = {
     {
       n: '01',
       title: 'Measure & draw',
-      text: 'We visit, measure your room and draw the piece to your size. You approve the drawing, fabric and wood before we cut anything.',
+      text: 'You send us your room size (or we come and measure), and we draw the piece to fit. You approve the drawing, fabric and wood before we cut anything.',
     },
     {
       n: '02',
@@ -94,7 +94,7 @@ export const workshop = {
     {
       n: '04',
       title: 'Deliver & fit',
-      text: 'Our own team delivers across Islamabad and Rawalpindi and sets every piece in place.',
+      text: 'We deliver across Islamabad and Rawalpindi and set every piece in place.',
     },
   ],
 }
@@ -123,8 +123,8 @@ export const audiences = {
 
 export const specs = [
   { label: 'Frame', value: 'Seasoned solid hardwood, corner-braced and glued' },
-  { label: 'Woods', value: 'Sheesham, walnut, ash, deodar' },
-  { label: 'Foam', value: 'High-density foam, 32–40 kg/m³, with fibre wrap' },
+  { label: 'Woods', value: 'Sheesham, walnut, ash – or the wood you choose' },
+  { label: 'Foam', value: 'High-density foam with fibre wrap, firmness chosen by you' },
   { label: 'Finish', value: 'Matt or gloss polish, lacquer, or painted' },
   { label: 'Fabrics', value: 'Leather, velvet, bouclé, linen and more – bring your own if you like' },
   { label: 'Sizes', value: 'Made to your measurements – no standard sizes' },
@@ -132,7 +132,7 @@ export const specs = [
 
 export const contact = {
   title: ['Tell us what', 'you need'],
-  intro: 'Send us the piece and size. We reply on WhatsApp with a drawing and price, usually the same day.',
+  intro: 'Send us the piece and size. We reply on WhatsApp with a drawing and a price.',
   roles: ['Homeowner', 'Interior designer', 'Business', 'Showroom'],
   pieces: ['Bed', 'Sofa', 'Dining set', 'Wardrobe', 'Office furniture', 'Chair', 'Other'],
 }
