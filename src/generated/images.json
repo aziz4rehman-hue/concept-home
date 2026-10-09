@@ -1,0 +1,79 @@
+{
+  "bed-cream-carved": {
+    "width": 1067,
+    "height": 1600,
+    "widths": [
+      480,
+      960,
+      1067
+    ]
+  },
+  "chair-lounge-taupe": {
+    "width": 909,
+    "height": 779,
+    "widths": [
+      480,
+      909
+    ]
+  },
+  "chesterfield-armchair-green": {
+    "width": 1200,
+    "height": 1600,
+    "widths": [
+      480,
+      960,
+      1200
+    ]
+  },
+  "chesterfield-sofa-green": {
+    "width": 1600,
+    "height": 1200,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "living-room-set": {
+    "width": 778,
+    "height": 917,
+    "widths": [
+      480,
+      778
+    ]
+  },
+  "office-chesterfield-set": {
+    "width": 1600,
+    "height": 1200,
+    "widths": [
+      480,
+      960,
+      1600
+    ]
+  },
+  "sofa-beige-linen": {
+    "width": 655,
+    "height": 1002,
+    "widths": [
+      480,
+      655
+    ]
+  },
+  "sofa-brown-leather": {
+    "width": 696,
+    "height": 342,
+    "widths": [
+      480,
+      696
+    ]
+  },
+  "sofa-curved-fringe": {
+    "width": 1200,
+    "height": 1200,
+    "widths": [
+      480,
+      960,
+      1200
+    ]
+  }
+}
