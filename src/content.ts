@@ -65,11 +65,11 @@ export const collections: {
   photo?: string
 }[] = [
   { id: 'beds', title: 'Beds', note: 'Upholstered and carved-wood frames', size: '183 × 198 cm', photo: 'bed-cream-carved' },
-  { id: 'sofas', title: 'Sofas', note: 'Three-seater, L-shape and curved', size: '228 × 92 cm', photo: 'chesterfield-sofa-green' },
-  { id: 'dining', title: 'Dining', note: 'Tables and chairs for 4 to 12', size: '200 × 100 cm' },
-  { id: 'wardrobes', title: 'Wardrobes', note: 'Built to your wall, floor to ceiling', size: '240 × 60 cm' },
+  { id: 'sofas', title: 'Sofas', note: 'Three-seater, L-shape and curved', size: '228 × 92 cm', photo: 'sofa-l-shape-ivory' },
+  { id: 'dining', title: 'Dining', note: 'Tables and chairs for 4 to 12', size: '200 × 100 cm', photo: 'dining-oval-walnut' },
+  { id: 'wardrobes', title: 'Wardrobes', note: 'Built to your wall, floor to ceiling', size: '240 × 60 cm', photo: 'wardrobe-dressing-unit' },
   { id: 'office', title: 'Office', note: 'Executive desks and lounge sets', size: '180 × 90 cm', photo: 'office-chesterfield-set' },
-  { id: 'chairs', title: 'Chairs', note: 'Chesterfield and lounge chairs', size: '105 × 90 cm', photo: 'chesterfield-armchair-green' },
+  { id: 'chairs', title: 'Chairs', note: 'Chesterfield and lounge chairs', size: '105 × 90 cm', photo: 'chair-wingback-beige' },
 ]
 
 export const workshop = {

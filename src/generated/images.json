@@ -16,6 +16,14 @@
       909
     ]
   },
+  "chair-wingback-beige": {
+    "width": 735,
+    "height": 817,
+    "widths": [
+      480,
+      735
+    ]
+  },
   "chesterfield-armchair-green": {
     "width": 1200,
     "height": 1600,
@@ -32,6 +40,14 @@
       480,
       960,
       1600
+    ]
+  },
+  "dining-oval-walnut": {
+    "width": 736,
+    "height": 1104,
+    "widths": [
+      480,
+      736
     ]
   },
   "living-room-set": {
@@ -74,6 +90,22 @@
       480,
       960,
       1200
+    ]
+  },
+  "sofa-l-shape-ivory": {
+    "width": 736,
+    "height": 736,
+    "widths": [
+      480,
+      736
+    ]
+  },
+  "wardrobe-dressing-unit": {
+    "width": 735,
+    "height": 917,
+    "widths": [
+      480,
+      735
     ]
   }
 }

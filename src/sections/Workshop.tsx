@@ -17,7 +17,7 @@ export default function Workshop() {
           <Reveal className="mt-6 max-w-md text-[17px] leading-relaxed text-bark">{workshop.intro}</Reveal>
           <Reveal className="mt-10 hidden overflow-hidden rounded-[24px] lg:block" delay={0.1}>
             <Picture
-              name="chesterfield-armchair-green"
+              name="sofa-beige-linen"
               sizes="40vw"
               className="aspect-[4/5] w-full object-cover"
             />

@@ -1,6 +1,6 @@
 import images from './generated/images.json'
 
-export type Category = 'Sofas' | 'Chairs' | 'Beds' | 'Office' | 'Living rooms'
+export type Category = 'Sofas' | 'Chairs' | 'Beds' | 'Dining' | 'Wardrobes' | 'Office' | 'Living rooms'
 
 export type Photo = {
   name: keyof typeof images
@@ -9,6 +9,10 @@ export type Photo = {
 }
 
 export const photos: Photo[] = [
+  { name: 'sofa-l-shape-ivory', category: 'Sofas', alt: 'Ivory bouclé L-shape sofa with chaise on light wooden legs' },
+  { name: 'dining-oval-walnut', category: 'Dining', alt: 'Oval walnut dining table with six cream upholstered chairs' },
+  { name: 'wardrobe-dressing-unit', category: 'Wardrobes', alt: 'Three-door grey wardrobe with lit dressing mirror and walnut shelves' },
+  { name: 'chair-wingback-beige', category: 'Chairs', alt: 'Beige wingback armchair with cushion on dark wooden legs' },
   { name: 'chesterfield-sofa-green', category: 'Sofas', alt: 'Green leather Chesterfield three-seater sofa with four cushions' },
   { name: 'office-chesterfield-set', category: 'Office', alt: 'Office lounge with green leather Chesterfield sofa, armchairs and wooden desk' },
   { name: 'chesterfield-armchair-green', category: 'Chairs', alt: 'Green leather Chesterfield armchair with brass stud trim' },
